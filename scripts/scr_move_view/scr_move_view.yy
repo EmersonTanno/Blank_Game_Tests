@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"scr_move_view",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_move_view",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
